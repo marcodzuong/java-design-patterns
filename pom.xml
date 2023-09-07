@@ -19,6 +19,7 @@
     <modules>
         <module>BehavioralPattern/Strategy</module>
         <module>CreationalPattern/Builder</module>
+        <module>CreationalPattern/AbstractFactory</module>
     </modules>
 
     <dependencies>
