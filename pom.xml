@@ -20,6 +20,7 @@
         <module>BehavioralPattern/Strategy</module>
         <module>CreationalPattern/Builder</module>
         <module>CreationalPattern/AbstractFactory</module>
+        <module>CreationalPattern/FactoryMethod</module>
     </modules>
 
     <dependencies>
